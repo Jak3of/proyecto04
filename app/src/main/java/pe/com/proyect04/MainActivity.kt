@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         // Hugo estuvo aqui
         // otro comentario
 
-        //a XD
+        //actualizado
     }
 }
